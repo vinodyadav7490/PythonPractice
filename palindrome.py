@@ -1,4 +1,6 @@
 '''
+what is palindrome
+if string and its reverse is same then we call the string as palindrome
 
 '''
 
